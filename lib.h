@@ -1,5 +1,5 @@
 //
-// Created by ricca on 29/11/2021.
+// Created by ricca on 29/11/2021
 //
 
 #ifndef ESERCITAZIONE_6_LIBR_H
