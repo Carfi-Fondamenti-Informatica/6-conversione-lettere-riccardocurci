@@ -8,7 +8,7 @@ bool t=true;
       return a;
       }
     }else{
-    a=a-32 
+    a=a-32;
     return a;
     }
   }else{
